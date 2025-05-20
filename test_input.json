@@ -1,0 +1,13 @@
+{
+  "topic": "LLM compression",
+  "papers": [
+    {
+      "title": "SVD-LLM V2",
+      "summary": "This paper introduces improved SVD truncation techniques for LLMs..."
+    },
+    {
+      "title": "FineZip",
+      "summary": "FineZip is a novel LLM-based lossless text compression system..."
+    }
+  ]
+}

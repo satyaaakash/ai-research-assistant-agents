@@ -1,0 +1,13 @@
+{
+    "topic": "LLM compression",
+    "papers": [
+      {
+        "title": "SVD-LLM V2: Compressing Models",
+        "summary": "This paper explores compression using singular value decomposition."
+      },
+      {
+        "title": "FineZip: Efficient Encoding via LLMs",
+        "summary": "The paper presents a method using LLMs to encode and compress textual data."
+      }
+    ]
+  }
